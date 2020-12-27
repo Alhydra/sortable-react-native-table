@@ -1,7 +1,8 @@
 {
   "expo": {
-    "name": "react-native-table",
-    "slug": "react-native-table",
+    "name": "sortable-react-native-table",
+    "slug": "sortable-react-native-table",
+    "description": "In this Project we're going to explore How to make a sortable React Native table, and I have written a depth guide with examples in my Blog https://reactntativemaster.com, for future references. You can check the full Article here. https://reactnativemaster.com/sortable-react-native-table-example",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
